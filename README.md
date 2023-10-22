@@ -1,4 +1,7 @@
 # uwsb_bigdata_bm
+
+JESTEM NA BRANCHU PRZEZ PULL REQUEST
+
 Repozytorium dla projektu BIG DATA 2023
 Jestem na branchu DEV
 
