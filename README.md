@@ -1,7 +1,7 @@
 # uwsb_bigdata_bm
 
 
-JESTEM NA BRANCHU DEV KOPIA!!!
+JESTEM NA BRANCHU DEV KOPIA!!! PRZED PULL REQUEST
 
 Repozytorium dla projektu BIG DATA 2023
 
