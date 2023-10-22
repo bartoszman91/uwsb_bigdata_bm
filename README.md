@@ -1,4 +1,8 @@
 # uwsb_bigdata_bm
+
+
+JESTEM NA BRANCHU DEV KOPIA!!!
+
 Repozytorium dla projektu BIG DATA 2023
 
 Hello World! Jestem na branchu
